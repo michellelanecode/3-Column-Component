@@ -1,0 +1,9 @@
+.cards {
+	display: grid;
+	max-width: 900px;
+	grid-template-columns: repeat(3, 350px);
+	grid-template-rows: auto;
+	position: absolute;
+	top: 50%;
+	transform: translate(0, -50%);
+}

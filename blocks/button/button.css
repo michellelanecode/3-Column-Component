@@ -1,0 +1,9 @@
+.button {
+	width: 130px;
+	height: 35px;
+	align-self: center;
+	border-radius: 75px;
+	font-family: "Lexend Deca";
+	background-color: hsl(0, 0%, 95%);
+	margin: 80px auto 40px;
+}

@@ -32,12 +32,9 @@ This is a project from FrontEndMentor.io I've created to work improve my respons
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-
 
 ### Useful resources
 

@@ -1,0 +1,7 @@
+.paragraph {
+	color:  hsla(0, 0%, 100%, 0.75);
+	font-size: 15px;
+	max-width: 200px;
+	font-family: "Lexend Deca";
+	margin-left: 25px;
+}

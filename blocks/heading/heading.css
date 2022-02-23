@@ -1,0 +1,8 @@
+.heading {
+		color: hsl(0, 0%, 95%);
+		font-family: "Big Shoulders Display";
+		font-weight: 900px;
+		margin-left: 25px;
+		line-height: 150%;
+		font-size: 50px;
+}

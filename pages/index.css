@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+@import url(../blocks/card/card.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/heading/heading.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/button/button.css);
+@import url(../blocks/luxury/luxury.css);
+@import url(../blocks/luxury/__button/luxury__button.css);
+@import url(../blocks/paragraph/paragraph.css);
+@import url(../blocks/sedans/__button/sedans__button.css);
+@import url(../blocks/sedans/sedans.css);
+@import url(../blocks/suv/suv.css);
+@import url(../blocks/suv/__button/suv__button.css);
+@import url(../blocks/page/page.css);
